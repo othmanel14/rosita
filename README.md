@@ -1,0 +1,2 @@
+# rosita
+store management website
